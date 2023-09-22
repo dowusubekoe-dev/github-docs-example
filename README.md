@@ -42,11 +42,6 @@ result = factorial(number)
 puts "The factorial of #{number} is #{result}"
 ```
 
-## Step 2 - Use Github Flavored Markdown Insert Images
-
-Make note of where the backtick button is located.
-It should appear above the tab key, but it may vary based on your keyboard layout or type.
-
 ![Terraform icon](https://banner2.cleanpng.com/20180529/szy/kisspng-terraform-hashicorp-microsoft-azure-infrastructure-5b0e0b6cc80963.2449977615276470848194.jpg)
 
 <!--Resize with HTML -->
@@ -93,17 +88,23 @@ You can use the following markdown format to create tables:
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
 
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+- Make note of where the backtick button is located.
+- It should appear above the tab key,
+- but it may vary based on your keyboard layout or type.
 
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+![Photo of Terraform](assets/terrafrom.jpeg)
 
-> [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
+> **[!NOTE]**
+Highlights information that users should take into account, even when skimming.
+
+> **[!IMPORTANT]**
+Crucial information necessary for users to succeed.
+
+> **[!WARNING]**
+Critical content demanding immediate user attention due to potential risks.
 
 
-## External 888iolReferences
+## External References
 - [Github Flavored Markdown Spec](https://github.github.com/gfm)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
 - [GFM - Tasks Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
